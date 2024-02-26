@@ -14,7 +14,7 @@ Download file deb ini terlebih dahulu
 
 jika sudah punya file .deb langusng install file deb tersebut dengan command 
 
-- install ./[file deb nya]
+$ sudo install ./[file deb nya]
 
 contoh
 $ sudo install ./potion_0.0.4_i386.deb
