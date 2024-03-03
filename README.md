@@ -20,3 +20,7 @@ contoh
 $ sudo apt install ./potion_0.0.4_i386.deb
 
 Jika eror (install libc6:i386 dahulu) caranya baca disini https://askubuntu.com/questions/1023962/how-to-install-libc6i386-on-16-04-4-64bit
+
+
+untuk tutorialnya silakan cek youtube 
+https://youtu.be/PK0K3ItaLGw
